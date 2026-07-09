@@ -21,7 +21,6 @@ Software Engineering graduate passionate about building web applications and sol
 
 LinkedIn:
 https://www.linkedin.com/in/norah-aloraimedhi-80275641a
-(رابط لينكدإن)
 
 GitHub:
 https://github.com/NorahSWE
