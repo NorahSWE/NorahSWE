@@ -1,26 +1,23 @@
-# Hi, I'm Norah 👋
+# Hi, I'm Norah 
 
-Software Engineering graduate passionate about building web applications and solving real-world problems through software.
+Software Engineering graduate passionate about building software solutions and creating user-focused applications. I enjoy full-stack development, solving real-world problems, and continuously improving my technical skills.
 
-## Interests
+## Technical Interests
 - Full-Stack Development
 - Software Engineering
-- Backend Development
 - IT Support
+- Backend Development
 
-## Projects
-- Cura AI
-- ATM Management System
+## Featured Projects
+- Cura AI – Bilingual Healthcare Chatbot
+- ATM Management System (C#)
 
 ## Currently Learning
-- ASP.NET
-- React
+- ASP.NET Core
+- Advanced Backend Development
 - Cloud Technologies
 
-## Connect with me
+## Connect with Me
 
-LinkedIn:
-https://www.linkedin.com/in/norah-aloraimedhi-80275641a
-
-GitHub:
-https://github.com/NorahSWE
+- LinkedIn: https://www.linkedin.com/in/norah-aloraimedhi-80275641a
+- GitHub: https://github.com/NorahSWE
